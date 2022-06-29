@@ -7,3 +7,6 @@
     --negro:#000;
     --blanco:#fff;
 }
+.menu__burgerButton{
+    display: none;
+}

@@ -28,7 +28,7 @@
 }
 body{
     color: var(--blanco);
-    /*background-color: var(--negro);*/
+    background-color: var(--negro);
 }
 .btnLink{
     text-decoration: none;
@@ -43,5 +43,17 @@ body{
     box-shadow: inset 5px 5px 15px 5px rgba(0,0,0,0.22);
 }
 @media screen and (max-width:800px){
-    
+    .imgLogoNode{
+        width: 70%;
+        margin-top: 100px;
+    }
+    .nodeTitle{
+        text-align: center;
+        font-size: 2rem;
+    }
+    .btnLink{
+        width: 70%;
+        text-align: center;
+    }
+ 
 }

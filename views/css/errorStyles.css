@@ -41,5 +41,8 @@ body{
 
 .btnLink:hover{
     -webkit-box-shadow: inset 5px 5px 15px 5px rgba(0,0,0,0.22); 
-box-shadow: inset 5px 5px 15px 5px rgba(0,0,0,0.22);
+    box-shadow: inset 5px 5px 15px 5px rgba(0,0,0,0.22);
+}
+@media screen and (max-width:800px){
+    
 }

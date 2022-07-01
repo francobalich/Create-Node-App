@@ -4,8 +4,15 @@
     box-sizing: border-box;
 }
 :root{
-    --negro:#000;
     --blanco:#fff;
+    --grisClaro:#EEF0F2;
+    --negro:#000;
+    --azul:#1D51D7;
+    --amarillo:#FFE400;
+    --naranja:#FF6B35;
+    --negroClaro:#000500;
+    --celeste:#00A5E0;
+    --rojo:#D72638;
 }
 .menu__burgerButton{
     display: none;

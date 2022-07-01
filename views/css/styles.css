@@ -27,8 +27,8 @@
     padding-bottom: 30px;
 }
 body{
-    background-color: var(--negroClaro);
     color: var(--blanco);
+    /*background-color: var(--negro);*/
 }
 .btnLink{
     text-decoration: none;
@@ -38,10 +38,9 @@ body{
     margin-top: 20px;
     color: var(--negro);
 }
-
 .btnLink:hover{
     -webkit-box-shadow: inset 5px 5px 15px 5px rgba(0,0,0,0.22); 
-box-shadow: inset 5px 5px 15px 5px rgba(0,0,0,0.22);
+    box-shadow: inset 5px 5px 15px 5px rgba(0,0,0,0.22);
 }
 @media screen and (max-width:800px){
     
